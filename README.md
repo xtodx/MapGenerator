@@ -49,3 +49,8 @@ function generate()
     <li>Перемещаются юниты</li>
     <li>Что дают базы</li>
 </ol>
+
+<h2>Установка</h2>
+<pre>
+`composer require xtodx/mapgenerator dev-master`
+</pre>
