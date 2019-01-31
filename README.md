@@ -52,5 +52,5 @@ function generate()
 
 <h2>Установка</h2>
 <pre>
-`composer require xtodx/mapgenerator dev-master`
+composer require xtodx/mapgenerator dev-master
 </pre>
