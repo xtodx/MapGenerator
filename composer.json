@@ -1,0 +1,22 @@
+{
+    "name": "xtodx/mapgenerator",
+    "description": "Map Generator",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Tony",
+            "email": "tonylovepony@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "phpunit/phpunit": "7.5.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "xtodx\\MapGenerator\\": "src/"
+        }
+    }
+}
